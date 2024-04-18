@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/MGBrave/" alt="Espaço Elis" width="500"  />
+<img src="https://github.com/MGBrave/Espaco_Elis/blob/main/prototype.jpg?raw=true" alt="Espaço Elis" width="600"  />
 
 
 
